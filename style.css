@@ -1,0 +1,65 @@
+body{
+    background-color:black;
+
+}
+h1{
+    color: blue;
+    text-align: center;
+    margin: 30px 0 0 0;
+}
+p{
+    text-align: center;
+    color:rgb(45, 98, 144);
+    text-transform: uppercase;
+}
+
+    
+
+
+.button:hover{
+    background-color: blue;
+}
+.button{
+    margin-left: 650px;
+    margin-top: 150px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: aliceblue;   
+    
+}
+.imagens{
+    margin: 0 auto;
+    max-width: 700px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;   
+}
+.aline:hover{
+    border: 1px solid white;
+}
+.marcelo:hover{
+    border: 1px solid white;
+}
+.bruna:hover{
+    border: 1px solid white;
+}
+.perfil:hover{
+    border: 1px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+div{
+    background-color: rgb(80, 80, 80);
+    min-height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
